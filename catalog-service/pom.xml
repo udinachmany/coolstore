@@ -30,12 +30,12 @@
     <dependency>
       <groupId>org.jboss.resteasy</groupId>
       <artifactId>resteasy-jaxrs</artifactId>
-      <version>3.0.19.Final</version>
+      <version>3.1.0.Final</version>
     </dependency>
     <dependency>
       <groupId>org.jboss.resteasy</groupId>
       <artifactId>resteasy-cdi</artifactId>
-      <version>3.0.19.Final</version>
+      <version>3.1.0.Final</version>
     </dependency>
     <dependency>
     	<groupId>org.jboss.resteasy</groupId>
@@ -45,12 +45,12 @@
     <dependency>
       <groupId>org.jboss.resteasy</groupId>
       <artifactId>resteasy-servlet-initializer</artifactId>
-      <version>3.0.19.Final</version>
+      <version>3.1.0.Final</version>
     </dependency>
     <dependency>
       <groupId>io.swagger</groupId>
       <artifactId>swagger-jaxrs</artifactId>
-      <version>1.5.12</version>
+      <version>1.5.19</version>
       <exclusions>
         <exclusion>
           <groupId>javax.ws.rs</groupId>
